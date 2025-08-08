@@ -1,11 +1,11 @@
-#include<stdio.h>
+	#include<stdio.h>
 #include<math.h>
 int main(){
 	int a;
-	printf("Nhap Ng‡y \n");
+	printf("Nhap Ng√†y \n");
 	scanf("%d",&a);
 	int b;
-	printf("Nhap Th·ng \n");
+	printf("Nhap Th√°ng \n");
 	scanf("%d",&b);
 	int c;
 	printf("Nhap Nam \n");
