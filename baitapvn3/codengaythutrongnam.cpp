@@ -12,7 +12,7 @@ int main(){
 	scanf("%d",&c);
 	int nt;
 	// nt la ngay thu... trong nam
-	if(a<=0 || a>32|| b<=0 || b>13|| c<=0){
+	if(a<=0 || a>31|| b<=0 || b>12|| c<=0){
 		printf("Sai du lieu, nhap lai");
 	}else{
 		if(b>1){
